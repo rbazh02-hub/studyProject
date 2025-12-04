@@ -1,6 +1,6 @@
 # studyProject
 
-##MyProjectPlan
+## MyProjectPlan
 
 -Initialize the project repository
 -Add the mein feature
