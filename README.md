@@ -1,1 +1,9 @@
 # studyProject
+
+##MyProjectPlan
+
+-Initialize the project repository
+-Add the mein feature
+-Create unit tests
+-Update the documentation
+-Prepare for the first release
