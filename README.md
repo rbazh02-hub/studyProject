@@ -1,6 +1,6 @@
 # studyProject
 
-## My Super Project
+## My Project Plan
 
 -Initialize the project repository
 -Add the mein feature
